@@ -1,0 +1,5 @@
+rulesets:
+  - typescript-best-practices
+  - jsx-a11y
+  - jsx-react
+  - react-best-practices
