@@ -120,6 +120,7 @@
     "./src/lesson00",
     "./src/lesson01-04",
     "./src/lesson05",
-    "./src/lesson06"
+    "./src/lesson06",
+    "./src/lesson07"
   ]
 }
