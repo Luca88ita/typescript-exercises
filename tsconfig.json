@@ -112,8 +112,13 @@
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
-  "exclude": ["./src/scripts/basics",
+  "exclude": ["./src/lesson00/scripts/basics",
     "**/*.dev.ts",
     "/node_modules" //this should ve alreay exluded by default
+  ],
+  "include": [
+    "./src/lesson00",
+    "./src/lesson01-04",
+    "./src/lesson05"
   ]
 }
