@@ -26,6 +26,7 @@ const initApp = (): void => {
 
 		fullList.addItem(newItem);
 		template.render(fullList);
+		input.value = '';
 	});
 
 	// here we call a button which clears the list and the JSON

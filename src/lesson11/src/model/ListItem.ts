@@ -38,6 +38,6 @@ export default class ListItem implements Item {
 		if (typeof checked === 'boolean') {
 			this._checked = checked;
 			return;
-		} else throw new Error('Param is not a string');
+		} else throw new Error('Param is not a boolean');
 	}
 }

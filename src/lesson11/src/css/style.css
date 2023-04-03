@@ -86,6 +86,11 @@ section {
     color: limegreen;
 }
 
+#clearItemsButton:hover,
+#clearItemsButton:focus{
+    color: crimson;
+}
+
 .listContainer {
     font-size: 1.5rem;
     flex-grow: 1;
