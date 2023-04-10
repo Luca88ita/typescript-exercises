@@ -1,7 +1,6 @@
 import { useState } from "react";
 import useCart from "../hooks/useCart";
 import CartLineItem from "./CartLineItem";
-import { Item } from "../../../lesson11/src/model/ListItem";
 
 const Cart = () => {
   const [confirm, setConfirm] = useState<boolean>(false);
