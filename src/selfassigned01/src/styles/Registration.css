@@ -1,0 +1,16 @@
+.registration{
+  display: flex;
+  flex-direction: column;
+}
+.registration__content{
+  margin: 0.5rem;
+}
+.registration>input{
+  height: 2rem;
+  padding-left: 0.5rem;
+}
+#registration__login{
+  cursor: pointer;
+  text-decoration: underline;
+  color: #f1f1f1;
+}

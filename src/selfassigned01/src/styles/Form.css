@@ -1,0 +1,16 @@
+.credentials__form{
+  display: flex;
+  flex-direction: column;
+}
+.input__content{
+  margin: 0.5rem;
+}
+.credentials__form>input{
+  height: 2rem;
+  padding-left: 0.5rem;
+}
+span{
+  cursor: pointer;
+  text-decoration: underline;
+  color: #f1f1f1;
+}
